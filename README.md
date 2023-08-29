@@ -2,9 +2,12 @@
 Design and implement a comprehensive E2EE (End-to-End Encryption) web application using Python, html, css and Django. The system serves as a robust platform for University students to securely communicate, share academic experiences, and access a centralized knowledge repository. Features of the application include user authentication, secure messaging, a discussion board, and a resource repository akin to platforms like Canvas. 
 
 ## Brief function introduce:
-**User Authentication**: Facilitated seamless user registration and login while ensuring the secure storage and transmission of passwords.
-**Messaging System**: Developed a secure messaging tool that allows users to view their friend list and send encrypted messages, maintaining user privacy and data integrity.
-**Discussion Forum**: Incorporated an interactive discussion board allowing users to engage in academic discussions, seek clarifications, and upload files to support their points.
+**User Authentication**: Facilitated seamless user registration and login while ensuring the secure storage and transmission of passwords.  
+
+**Messaging System**: Developed a secure messaging tool that allows users to view their friend list and send encrypted messages, maintaining user privacy and data integrity.  
+
+**Discussion Forum**: Incorporated an interactive discussion board allowing users to engage in academic discussions, seek clarifications, and upload files to support their points.  
+
 **Resource & Repository**: Created a central hub where students can upload, discover, and manage academic resources, course sheets, and other pertinent learning materials.
 
 ## Reports and the video
