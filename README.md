@@ -23,10 +23,12 @@ Run the following command to install:
 ```{pip install -r requirements.txt}```
 
 ## How this work
-Migrate the database please use:```{python3 manage.py migrate}```
+Migrate the database please use:```{python3 manage.py migrate}```  
+
 Run the server with the Django: ```{python3 manage.py runserver}```  
 
-```{python3 manage.py runserver_plus --cert cert.pem --key key.pem}```
+```{python3 manage.py runserver_plus --cert cert.pem --key key.pem}```  
+
 (run the command when you want to have the web security, but you don't have the certificate)
 
 ## Superuser function
