@@ -11,14 +11,14 @@ Design and implement a comprehensive E2EE (End-to-End Encryption) web applicatio
 **Resource & Repository**: Created a central hub where students can upload, discover, and manage academic resources, course sheets, and other pertinent learning materials.
 
 ## Reports and the video
-Please visit the link below, the specific report and demo video. 
+Please visit the link below, the specific report and demo video.  
+
 https://drive.google.com/drive/folders/1LwGH1Czkwg7UoXwzEdXIezmR-DxDgJb-?usp=sharing
 
 
 ## Requirements
 The requirements are stored in  
 ```{./requirements.txt}```  
-
 Run the following command to install:  
 ```{pip install -r requirements.txt}```
 
