@@ -40,7 +40,8 @@ Some power for admin:
 
 If you want, please create the spueruser use this command  
 
-```{python3 manage.py createsuperuser}```
+```{python3 manage.py createsuperuser}```  
+then add **/admin** at the end of the port. 
 
 PS: Thank you for your respect and understanding, please respect my intellectual property rights when reviweing this. Do not copy, distribute or use it for purpose other thanassessment. 
 
