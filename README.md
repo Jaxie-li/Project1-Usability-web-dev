@@ -16,13 +16,16 @@ https://drive.google.com/drive/folders/1LwGH1Czkwg7UoXwzEdXIezmR-DxDgJb-?usp=sha
 
 
 ## Requirements
-The requirements are stored in ```{./requirements.txt}```
-Run the following command to install:
+The requirements are stored in  
+```{./requirements.txt}```  
+
+Run the following command to install:  
 ```{pip install -r requirements.txt}```
 
 ## How this work
 Migrate the database please use:```{python3 manage.py migrate}```
-Run the server with the Django: ```{python3 manage.py runserver}```
+Run the server with the Django: ```{python3 manage.py runserver}```  
+
 ```{python3 manage.py runserver_plus --cert cert.pem --key key.pem}```
 (run the command when you want to have the web security, but you don't have the certificate)
 
@@ -33,7 +36,8 @@ Some power for admin:
 - mute user in the discussion forum, chat, resource and repository
 - But you cannot see all of the messages and password as plaintext. 
 
-If you want, please create the spueruser use this command
+If you want, please create the spueruser use this command  
+
 ```{python3 manage.py createsuperuser}```
 
 PS: Thank you for your respect and understanding, please respect my intellectual property rights when reviweing this. Do not copy, distribute or use it for purpose other thanassessment. 
