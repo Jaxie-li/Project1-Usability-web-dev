@@ -48,5 +48,5 @@ then add **/admin** at the end of the port.
 
 PS: 1. Thank you for your respect and understanding, please respect my intellectual property rights when reviweing this. Do not copy, distribute or use it for purpose other thanassessment.  
 
-2. This repository was originally co-authored with my teammate on the university's GitHub. Therefore, this is a backup version and does not display the commit history.
+2. This repository was originally co-authored with my teammate on the university's GitHub. 
 
