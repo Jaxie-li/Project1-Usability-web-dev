@@ -21,16 +21,16 @@ Design and implement a comprehensive E2EE (End-to-End Encryption) web applicatio
 
 ## Requirements
 The requirements are stored in  
-```{./requirements.txt}```  
+```./requirements.txt```  
 Run the following command to install:  
-```{pip install -r requirements.txt}```
+```pip install -r requirements.txt```
 
 ## How this work
-Migrate the database please use:```{python3 manage.py migrate}```  
+Migrate the database please use:```python3 manage.py migrate```  
 
-Run the server with the Django: ```{python3 manage.py runserver}```  
+Run the server with the Django: ```python3 manage.py runserver```  
 
-```{python3 manage.py runserver_plus --cert cert.pem --key key.pem}```  
+```python3 manage.py runserver_plus --cert cert.pem --key key.pem```  
 
 (run the command when you want to have the web security, but you don't have the certificate)
 
@@ -43,7 +43,7 @@ Some power for admin:
 
 If you want, please create the spueruser use this command  
 
-```{python3 manage.py createsuperuser}```  
+```python3 manage.py createsuperuser```  
 then add **/admin** at the end of the port. 
 
 PS: 1. Thank you for your respect and understanding, please respect my intellectual property rights when reviweing this. Do not copy, distribute or use it for purpose other thanassessment.  
